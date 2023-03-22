@@ -38,6 +38,9 @@ public class FlappyBird implements ActionListener, MouseListener, KeyListener
         JFrame jframe = new JFrame();
         Timer timer = new Timer(20, this);
 
+        /* 
+         * Adding some lines to see how to pull the request onto github
+         */
         renderer = new Renderer();
         rand = new Random();
 
