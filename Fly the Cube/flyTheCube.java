@@ -16,9 +16,7 @@ import javax.swing.Timer;
 
 public class FlappyBird implements ActionListener, MouseListener, KeyListener
 {
-/*
-Making some changes in File to see github
- */
+
     public static FlappyBird flappyBird;
 
     public final int WIDTH = 800, HEIGHT = 800;
